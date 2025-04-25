@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<IsPackable>false</IsPackable>
+		<IsTestProject>true</IsTestProject>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+		<PackageReference Include="xunit" Version="2.5.3" />
+		<PackageReference Include="xunit.runner.visualstudio" Version="2.5.3">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+		</PackageReference>
+
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="8.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.0" />
+
+		<PackageReference Include="FluentAssertions" Version="8.2.0" />
+		<PackageReference Include="Moq" Version="4.20.72" />
+
+		<Content Update="testhost.deps.json">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\ToDoList\ToDoList.csproj" />
+		<ProjectReference Include="..\ToDoList.Application\ToDoList.Application.csproj" />
+		<ProjectReference Include="..\ToDoList.Domain\ToDoList.Domain.csproj" />
+		<ProjectReference Include="..\ToDoList.Infrastructure\ToDoList.Infrastructure.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Using Include="Xunit" />
+		<Using Include="System.Threading.Tasks" />
+		<Using Include="Microsoft.AspNetCore.Mvc.Testing" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\bin\Debug\net8.0\ToDoList.Infrastructure.deps.json
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\bin\Debug\net8.0\ToDoList.Infrastructure.runtimeconfig.json
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\bin\Debug\net8.0\ToDoList.Infrastructure.dll
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\bin\Debug\net8.0\ToDoList.Infrastructure.pdb
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\bin\Debug\net8.0\ToDoList.Domain.dll
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\bin\Debug\net8.0\ToDoList.Domain.pdb
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.AssemblyInfo.cs
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.6D526900.Up2Date
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.dll
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\obj\Debug\net8.0\refint\ToDoList.Infrastructure.dll
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.pdb
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.genruntimeconfig.cache
+C:\Users\Thinkpad\Desktop\GitHub\ToDoList\ToDoList.Infrastructure\obj\Debug\net8.0\ref\ToDoList.Infrastructure.dll
